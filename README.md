@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YoungMin%20Kwon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=a.k.a%20YoungPro&descAlignY=51&descAlign=82)
+![header](https://capsule-render.vercel.app/api?type=waving&color=025FAC&height=300&section=header&text=YoungMin%20Kwon&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=a.k.a%20YoungPro&descAlignY=51&descAlign=82)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
