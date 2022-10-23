@@ -3,7 +3,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
-<p align="center"><img src="https://wakatime.com/badge/user/79f1670a-1bde-41e4-b5cd-a1229f4a99eb.svg"/></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -17,6 +17,7 @@
 <br>
 
 <h3 align="center"> ⚾ Me ⚾ </h3>
+<p align="center"><img src="https://wakatime.com/badge/user/79f1670a-1bde-41e4-b5cd-a1229f4a99eb.svg"/></p>
 <p align='center'>
   <a href="https://youngpro95.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
 </p>
